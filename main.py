@@ -10,7 +10,7 @@ import os
 # Конфигурация
 TOKEN = "8367850036:AAFlwAwCeCMG1fC8e1kT1pUuFCZtC1Zis4A"
 ADMIN_ID = 8118184388  # Ваш Telegram ID
-WEBHOOK_URL = "https://your-render-app-name.onrender.com"  # Замените на ваш Render URL
+WEBHOOK_URL = "https://chekerbot-hm70.onrender.com"  # Замените на ваш Render URL
 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
